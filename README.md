@@ -38,10 +38,11 @@ So that I can make it big! 🥳
        * Publish in home page  
    * Share podcast with friends
    * Write a comment to other podcast 
+ * As a admin u can Delete user > manage 
  * As a user  u can listining podcast as u like 
  * As a user u can search any podcast u want .
  * As a user & guest u can choose Dark / light Mode 
- * As a admin u can Delete user > manage 
+ 
  <h2> Part 2 : </h2>
  
  ```
@@ -52,6 +53,7 @@ So I can browse for my mood 🥳
 ```
 
 ## Design
+
 ### UML Digram 
 
 ### ERD 
