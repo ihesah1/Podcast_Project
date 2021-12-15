@@ -1,7 +1,7 @@
 
   
  <div align="center">
-  <h1>Master Project Podcast </h1>
+  <h1> Awesome Podcasts</h1>
   
 ![image](https://user-images.githubusercontent.com/92258765/146139080-8decd398-7c48-45e5-9307-2aa963d4b5a2.png)
   <br />
