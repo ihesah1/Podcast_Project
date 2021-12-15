@@ -52,3 +52,6 @@ So I can browse for my mood 🥳
 ```
 
 ## Design
+### UML Digram 
+
+### ERD 
