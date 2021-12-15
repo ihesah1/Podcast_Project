@@ -12,7 +12,16 @@
   
 # Project philosophy
 *An application that allows you to create a podcast and publish it on your own page and share it with whoever you want, it also allows you to listen to other podcasts.*
-# User Story :
+
+# UX
+
+## User Stories 
+Part 1 :
+``` 
+As a Podcast Creator I want to add my Podcast
+So that I can make it big! 🥳
+```
+
 * User can register or login in app
 * As a user u can create a Profile :
     * user can create bio or "small description about yourself"
@@ -25,11 +34,21 @@
        * Category of this podcast
        * Start Record
        * user can add cover Photo to his Podcasts
-       * As a user u can add music to ur record (Back + end record ) (after u finish record step)
+       * As a user u can add music to ur record (Start music + end music ) > (after u finish record step)
        * Publish in home page  
    * Share podcast with friends
    * Write a comment to other podcast 
- * As a user & guest u can listining podcast as u like 
+ * As a user  u can listining podcast as u like 
  * As a user u can search any podcast u want .
  * As a user & guest u can choose Dark / light Mode 
+ * As a admin u can Delete user > manage 
+ <h2> Part 2 : </h2>
  
+ ```
+ As a podcast listener
+I want to see a list of podcasts
+So I can browse for my mood 🥳
+
+```
+
+## Design
