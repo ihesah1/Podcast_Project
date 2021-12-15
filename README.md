@@ -23,12 +23,12 @@ So that I can make it big! 🥳
 ```
 
 * User can register or login in app
-* As a user u can create a Profile :
+* As a user you can edit a Profile :
     * user can create bio or "small description about yourself"
     * user can add photo in ur profile 
     * user can follow other podcaster 
     * user can update bio
-* User Should be create account to :
+* User Should be have account to :
    * Create new project , user must follow these steps when create a new project :
        * Name of Podcast
        * Category of this podcast
@@ -38,10 +38,10 @@ So that I can make it big! 🥳
        * Publish in home page  
    * Share podcast with friends
    * Write a comment to other podcast 
- * As a admin u can Delete user > manage 
- * As a user  u can listining podcast as u like 
- * As a user u can search any podcast u want .
- * As a user & guest u can choose Dark / light Mode 
+ * As a admin you can Delete user > manage 
+ * As a user  you can listining podcast as u like 
+ * As a user you can search any podcast u want .
+ * As a user & guest you can choose Dark / light Mode 
  
  <h2> Part 2 : </h2>
  
