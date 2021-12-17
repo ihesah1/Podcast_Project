@@ -70,6 +70,10 @@ Features :
 ### UML Digram 
 ![Untitled Workspace (13)](https://user-images.githubusercontent.com/92258765/146556069-05fdd93c-3891-4c74-b105-04a64947a65a.jpg)
 
+### Sitemap Digram
+
+![Website Sitemap (1)](https://user-images.githubusercontent.com/92258765/146596769-7457de8d-6d15-47de-80d5-846cacf8feb1.jpg)
+
 ### ERD 
 
 
