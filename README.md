@@ -63,6 +63,9 @@ So I can browse for my mood 🥳
 Features :
 
 ## Design
+## Feature Analysis
+
+![Untitled Workspace (12)](https://user-images.githubusercontent.com/92258765/146503406-5f70e236-3ce5-49c0-9252-fc61ac7bfbe9.jpg)
 
 ### UML Digram 
 
