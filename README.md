@@ -72,12 +72,15 @@ Features :
 
 ### Sitemap Digram
 
-![Website Sitemap (1)](https://user-images.githubusercontent.com/92258765/146596769-7457de8d-6d15-47de-80d5-846cacf8feb1.jpg)
+![Website Sitemap (2)](https://user-images.githubusercontent.com/92258765/146597706-6ba610e9-9e7b-4518-bef1-6365892a0371.jpg)
 
 ### ERD 
 
 
 
+<div align="center">
+  <h1> UI </h1>
+  </div>
 
 
 
@@ -88,4 +91,7 @@ Features :
 
 
 
- Made by 💙
+
+
+
+ Made by HSA 💙
