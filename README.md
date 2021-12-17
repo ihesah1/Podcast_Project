@@ -1,7 +1,7 @@
 
   
  <div align="center">
-  <h1> Awesome Podcasts</h1>
+  <h1>  Podcaster 🎙️ </h1>
   
 ![image](https://user-images.githubusercontent.com/92258765/146139080-8decd398-7c48-45e5-9307-2aa963d4b5a2.png)
   <br />
@@ -10,12 +10,20 @@
 
 <hr>
   
-# Project philosophy
+
+<div align="center">
+  <h1> UX </h1>
+  </div>
+  
+##  Project philosophy
 *An application that allows you to create a podcast and publish it on your own page and share it with whoever you want, it also allows you to listen to other podcasts.*
 
-# UX
+## Research 
 
-## User Stories 
+## Analysis
+
+
+###  User Stories 
 Part 1 :
 ``` 
 As a Podcast Creator I want to add my Podcast
@@ -52,8 +60,24 @@ So I can browse for my mood 🥳
 
 ```
 
+Features :
+
 ## Design
 
 ### UML Digram 
 
 ### ERD 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Made by 💙
