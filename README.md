@@ -12,7 +12,7 @@
   
 
 <div align="center">
-  <h1> UX </h1>
+  <h1> UX | User Experience</h1>
   </div>
   
 ##  Project philosophy
@@ -67,19 +67,22 @@ Features :
 
 ![Untitled Workspace (12)](https://user-images.githubusercontent.com/92258765/146503406-5f70e236-3ce5-49c0-9252-fc61ac7bfbe9.jpg)
 
-### UML Digram 
+### State UML Digram 
 ![Untitled Workspace (13)](https://user-images.githubusercontent.com/92258765/146556069-05fdd93c-3891-4c74-b105-04a64947a65a.jpg)
 
 ### Sitemap Digram
 
 ![Website Sitemap (2)](https://user-images.githubusercontent.com/92258765/146597706-6ba610e9-9e7b-4518-bef1-6365892a0371.jpg)
+### Use case UML Digram :
+
+![Untitled Workspace (21)](https://user-images.githubusercontent.com/92258765/146610610-86959abe-2bc8-4026-bca7-e57719899d60.jpg)
 
 ### ERD 
 
 
 
 <div align="center">
-  <h1> UI </h1>
+  <h1> UI User Interface</h1>
   </div>
 
 
