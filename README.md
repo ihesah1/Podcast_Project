@@ -79,6 +79,10 @@ Features :
 
 ### ERD 
 
+### Wireframe
+
+<img width="773" alt="2" src="https://user-images.githubusercontent.com/92258765/146648894-0e8ee26d-b421-4ea6-b76e-1d55d13a8b54.png">
+<img width="776" alt="5" src="https://user-images.githubusercontent.com/92258765/146651510-5b0381ee-a2bb-44b9-9ce2-c750cbc09c11.png">
 
 
 <div align="center">
